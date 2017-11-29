@@ -1,0 +1,4 @@
+Django==1.11.7
+nameparser==0.5.3
+numpy==1.13.3
+pytz==2017.3
